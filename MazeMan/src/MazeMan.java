@@ -19,6 +19,7 @@ public class MazeMan extends JFrame {
         setTitle("Collision");
         setLocationRelativeTo(null);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        System.out.println("asdfasdf");
     }
 
     public static void main(String[] args) {
