@@ -14,6 +14,7 @@ public class MazeMan extends JFrame {
         
         setResizable(false);
         pack();
+        System.out.println("Hej");
         
         setTitle("Collision");
         setLocationRelativeTo(null);
